@@ -1,0 +1,28 @@
+{
+  "validUser": {
+    "email": "yasser.qa.test@example.com",
+    "password": "Password123"
+  },
+  "invalidUser": {
+    "email": "wrong.email@example.com",
+    "password": "wrongpassword"
+  },
+  "existingEmail": {
+    "email": "yasser.qa.test@example.com"
+  },
+   "newAccountDetails": {
+    "password": "passwordttestt",
+    "day": "9",
+    "month": "2",
+    "year": "2002",
+    "firstName": "yasser",
+    "lastName": "saad",
+    "company": "expleo",
+    "address": "test address",
+    "country": "United States",
+    "state": "state test",
+    "city": "city test",
+    "zipcode": "1234",
+    "mobileNumber": "01090347562"
+  }
+}
